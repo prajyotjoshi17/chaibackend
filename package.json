@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "Practice app in js backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prajyotjoshi17/chaibackend.git"
+  },
+  "author": "Prajyot Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajyotjoshi17/chaibackend/issues"
+  },
+  "homepage": "https://github.com/prajyotjoshi17/chaibackend#readme"
+}
